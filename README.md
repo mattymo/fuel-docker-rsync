@@ -1,12 +1,6 @@
 fuel-nailgun
 ============
 
-Docker image with Fuel UI
+Docker image with rsync
 
-### Base image
-
-This image is based on https://github.com/lukaszbudnik/docker-scala.
-
-### Usage
-
-The image exposes port 8001
+The image exposes port 873
